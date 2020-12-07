@@ -1,5 +1,3 @@
-Collaborative Filtering
-
 **Data:**
 
 "Anime Recommendations Database," Kaggle, www.kaggle.com/CooperUnion/anime-recommendations-database.
